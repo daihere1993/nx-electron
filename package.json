@@ -67,7 +67,7 @@
     "@nrwl/linter": "^11.2.6",
     "circular-dependency-plugin": "^5.2.2",
     "copy-webpack-plugin": "^6.4.1",
-    "electron-builder": "^22.10.5",
+    "electron-builder": "22.14.11",
     "fork-ts-checker-webpack-plugin": "^6.1.0",
     "license-webpack-plugin": "^2.3.11",
     "rimraf": "^3.0.2",
